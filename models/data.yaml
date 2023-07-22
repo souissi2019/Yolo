@@ -1,0 +1,14 @@
+train: data_images/train
+val: data_images/test
+nc: 10
+names: ['Afghan_hound',
+        'Maltese_dog',
+        'Shih-Tzu',
+        'Blenheim_spaniel',
+        'Japanese_spaniel',
+        'papillon', 
+        'Rhodesian_ridgeback',
+        'chihuahua',
+        'toy_terrier',
+        'Pekinese'
+]
