@@ -38,3 +38,5 @@ opencv-python-headless
 jupyter
 labelImg
 pillow==9.5.0
+onnx
+onnx-simplifier
