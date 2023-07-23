@@ -37,4 +37,4 @@ matplotlib
 opencv-python-headless
 jupyter
 labelImg
-pillow==7.1.0
+pillow==9.5.0
